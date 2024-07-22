@@ -12,7 +12,7 @@ This data was truncated to use 20 categories for the classification. The number 
 
 <img src="/Visualizations/Dataset Distribution.PNG"/>
 
-Team Members - Adarsha Mani, Lavina Chotrani
+Team Members - Adarsha Mani, Lavina Chotrani, Neelabh Sinha
 
 ## Model -
 
