@@ -1,10 +1,18 @@
 # Food-Dishes-Classification
+
+![Type](https://img.shields.io/badge/Type-Personal_Project-yellow)
+![Concepts](https://img.shields.io/badge/Concepts-Deep_Learning,_Computer_Vision-blue)
+![Language](https://img.shields.io/badge/Language-Python-red)
+![Libraries](https://img.shields.io/badge/Libraries-Keras,_Tensorflow,_Scikit_Learn-green)
+
 This repository contains work on Food Dishes Classification from Images, using a truncated version of Food-101 dataset, having only 20 categories, using Keras API of tensorflow in Python.
 
 Dataset - [Food 101](https://www.kaggle.com/dansbecker/food-101/home)
 This data was truncated to use 20 categories for the classification. The number of images used in training and testing set, and the labels used can be seen from the following graph -
 
 <img src="/Visualizations/Dataset Distribution.PNG"/>
+
+Team Members - Adarsha Mani, Lavina Chotrani
 
 ## Model -
 
